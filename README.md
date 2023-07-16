@@ -22,9 +22,20 @@ Here are some ideas to get you started:
 <p>
     <Strong>☁️기술 블로그☁️</Strong><br>
     <a href="https://velog.io/@normalvector" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=20C997"/></a>
+
+
+    
 <br><br>
 <Strong>📧Email📧</Strong><br>wxyz0904@naver.com<br>
 </p>
+
+<p>
+
+<Strong>Protfolio</Strong><br>
+<a href="https://seed-collision-814.notion.site/edfd912afbbf4453b7bcf3398e850080?pvs=4" target="_blank">    
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=00000"/></a>
+</p>    
+
 
 <br>
 
