@@ -75,39 +75,17 @@ TOEIC 775 2018.6
 - SKT AI 커리큘럼
 
 ## ⚒️Tech Stack⚒️
-<p display="inline-block">
-    💡Language <br>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-</p>
-<p display="inline-block">
-    💡Backend <br>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-</p>
-<p display="inline-block">
-    💡DB <br>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-</p>
-<p>
-    💡Used at least once
-</p>
-<p display="inline-block">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-</p>
+![image](https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/196f0795-20ac-4d73-8ac3-fb417b50fac2)
 
-<br>
+-------
+
+![image](https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/6f0ac474-b154-486d-a348-47a00805c482)
+------
+![image](https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/b4cc5128-844a-4c7a-89b1-7f0a103ae8bc)
+
+-------
+![image](https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/4c0cc3e8-974b-4eba-94ff-656b09bdd5fc)
+
 
 <div>
     
