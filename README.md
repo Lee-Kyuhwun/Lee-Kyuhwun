@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 👋 백엔드 개발자로 성장하고자 하는 이규훈입니다. 
 
 <!--
 **Lee-Kyuhwun/Lee-Kyuhwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
