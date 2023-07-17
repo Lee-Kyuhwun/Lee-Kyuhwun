@@ -1,4 +1,4 @@
-![image](https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/04349869-81af-4ac3-bfc5-827cac06dd98)
+![image](https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/fac670e0-912c-4430-8c17-0399f86019db)
 
 
 
