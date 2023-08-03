@@ -82,6 +82,12 @@ TOEIC 775 2018.6
 - SKT AI 커리큘럼
 
 ## ⚒️Tech Stack⚒️
+
+![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+
 ![image](https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/196f0795-20ac-4d73-8ac3-fb417b50fac2)
 
 -------
