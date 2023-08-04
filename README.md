@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 
 세종대학교 지능기전공학부 스마트기기공학과  2018.3 - 2024.02 졸업예정
 
-학점: 3.67 / 4.5 
 
 ### 외국어
 
