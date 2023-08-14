@@ -137,10 +137,6 @@ TOEIC 775 2018.6
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-2E3440?style=for-the-badge&logo=putty&logoColor=white)
------------
-Note: Not all software or services have an official logo on the shields.io database. The above badges use the closest available logos. If there's no exact match, I've used a color that might match the software's branding or a generic color.
-
-
 
 -----
 <div>
