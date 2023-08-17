@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 TOEIC 775 2018.6
 
-### 일경험
+### 인턴
 
 - (주)앨리스 2023.07 ~ 2023.08
 - (주)오비고 2023.09 ~ 2024.02
