@@ -77,6 +77,7 @@ TOEIC 775 2018.6
 - Start-Up K-Shield Jr. 교육 수료
 - SKT AI 커리큘럼
 - 정보통신산업진흥원(NIPA)  2022 AI/SW 과정 수료
+- LG AImers 4기기
 
 
 ## ⚒️Tech Stack⚒️
