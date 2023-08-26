@@ -143,6 +143,7 @@ TOEIC 775 2018.6
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-2E3440?style=for-the-badge&logo=putty&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2E3440?style=for-the-badge&logo=github-actions&logoColor=white)
 
 -----
 <div>
