@@ -42,21 +42,6 @@ Here are some ideas to get you started:
 ### 오픈소스
 - 전자정부프레임워크 표준프레임워크 공통컴포넌트 컨트리뷰터 
 
-### 교육 수료
-
-- AI 양재 허브 『2022년 AI SW 개발자 양성 교육 인공지능 웹 개발 Track』 수료
-- 2023년 신학연 연계 ESG 청년 취업역량 강화 및 일경험 SW트랙
-- 영등포 SESAC 스프링부트를 이용한 자바 백엔드 전문가과정 
-
-### 대외활동 & 스터디
-
-- FackBook University 3기
-- 네이버 커넥트재단 모두를 위한 파이썬<PY4E 2022> 코칭스터디
-- 네이버 커넥트재단 코칭스터디 10기 <Beyond AI Basic 2023>
-- Start-Up K-Shield Jr. 교육 수료
-- SKT AI 커리큘럼
-- 정보통신산업진흥원(NIPA)  2022 AI/SW 과정 수료
-- LG AImers 4기
 
 
 ## ⚒️Tech Stack⚒️
