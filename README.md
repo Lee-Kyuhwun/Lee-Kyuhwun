@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 <p>
     <Strong>기술 블로그</Strong><br>
-    <a href="https://velog.io/@normalvector" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=20C997"/></a>
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=normalvector)](https://velog.io/@normalvector)
 </p>
 <p>
 <Strong>Protfolio</Strong><br>
