@@ -2,7 +2,7 @@
   <img src="https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/fac670e0-912c-4430-8c17-0399f86019db" alt="Profile Picture">
 </p>
 
-<h2 align="center">안녕하세요! 👋 백엔드 개발자로 성장하고자 하는 이규훈입니다.</h2>
+
 
 ---
 
