@@ -1,57 +1,50 @@
-![image](https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/fac670e0-912c-4430-8c17-0399f86019db)
-
-
-
-### 안녕하세요! 👋 백엔드 개발자로 성장하고자 하는 이규훈입니다. 
-
-<!--
-**Lee-Kyuhwun/Lee-Kyuhwun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Kyuhwun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-<p>
-    <Strong>기술 블로그</Strong><br>
+<p align="center">
+  <img src="https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/fac670e0-912c-4430-8c17-0399f86019db" alt="Profile Picture">
 </p>
 
+<h2 align="center">안녕하세요! 👋 백엔드 개발자로 성장하고자 하는 이규훈입니다.</h2>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=normalvector)](https://github.com/eungyeole/velog-readme-stats)
+---
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Kyuhwun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+  </a>
+</p>
 
+<p align="center"><strong>기술 블로그</strong></p>
 
+<p align="center">
+  <a href="https://github.com/eungyeole/velog-readme-stats">
+    <img src="https://velog-readme-stats.vercel.app/api?name=normalvector">
+  </a>
+</p>
 
-<p>
-<Strong>Protfolio</Strong><br>
-<a href="https://seed-collision-814.notion.site/edfd912afbbf4453b7bcf3398e850080?pvs=4" target="_blank">    
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=00000"/></a>
-</p>    
+<p align="center">
+  <strong>Protfolio</strong><br>
+  <a href="https://seed-collision-814.notion.site/edfd912afbbf4453b7bcf3398e850080?pvs=4" target="_blank">    
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=00000">
+  </a>
+</p>
 
-<Strong>📧Email📧</Strong><br>wxyz0904@naver.com<br>
+<p align="center">
+  <strong>📧Email📧</strong><br>wxyz0904@naver.com
+</p>
 
+<p align="center"><strong>오픈소스</strong></p>
 
-### 오픈소스
-- 전자정부프레임워크 표준프레임워크 공통컴포넌트 컨트리뷰터 
+<p align="center">전자정부프레임워크 표준프레임워크 공통컴포넌트 컨트리뷰터</p>
 
-    
-![Lee-KyuHwun github stats](https://github-readme-stats.vercel.app/api?username=Lee-Kyuhwun&show_icons=true&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbgns0904)](https://solved.ac/dlrbgns0904/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Kyuhwun)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lee-Kyuhwun&show_icons=true&theme=dark">
+</p>
 
+<p align="center">
+  <a href="https://solved.ac/dlrbgns0904/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbgns0904">
+  </a>
+</p>
 
-
-    
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Kyuhwun">
+</p>
