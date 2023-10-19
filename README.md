@@ -22,11 +22,18 @@ Here are some ideas to get you started:
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-Kyuhwun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
+
+
 <p>
     <Strong>기술 블로그</Strong><br>
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=normalvector)](https://velog.io/@normalvector)
 </p>
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=normalvector)](https://github.com/eungyeole/velog-readme-stats)
+
+
+
+
 <p>
 <Strong>Protfolio</Strong><br>
 <a href="https://seed-collision-814.notion.site/edfd912afbbf4453b7bcf3398e850080?pvs=4" target="_blank">    
