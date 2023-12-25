@@ -22,7 +22,7 @@
 
 <p align="center">
   <strong>Protfolio</strong><br>
-  <a href="https://seed-collision-814.notion.site/edfd912afbbf4453b7bcf3398e850080?pvs=4" target="_blank">    
+  <a href="https://seed-collision-814.notion.site/4a4dc51c6cac48ae9a7e1207aca83808" target="_blank">    
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=00000">
   </a>
 </p>
