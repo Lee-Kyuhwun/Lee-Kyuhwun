@@ -22,7 +22,7 @@
 
 <p align="center">
   <strong>Protfolio</strong><br>
-  <a href="https://seed-collision-814.notion.site/4a4dc51c6cac48ae9a7e1207aca83808" target="_blank">    
+  <a href="https://seed-collision-814.notion.site/4a4dc51c6cac48ae9a7e1207aca83808?pvs=4" target="_blank">    
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=00000">
   </a>
 </p>
@@ -34,17 +34,18 @@
 <p align="center"><strong>오픈소스</strong></p>
 
 <p align="center">전자정부프레임워크 표준프레임워크 공통컴포넌트 컨트리뷰터</p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lee-Kyuhwun&show_icons=true&theme=dark">
 </p>
-
+--
 <p align="center">
   <a href="https://solved.ac/dlrbgns0904/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbgns0904">
   </a>
 </p>
-
+--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Kyuhwun">
 </p>
+-->
