@@ -1,6 +1,8 @@
 <!--  <img src="https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/fac670e0-912c-4430-8c17-0399f86019db" alt="Profile Picture"> -->
 <p align="center">
- <img src="https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/f3f24000-f3a0-47a1-9795-a1ded7ab93c8">
+<p align="center">
+ <img src="https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/f3f24000-f3a0-47a1-9795-a1ded7ab93c8" width="400" height="auto">
+</p>
 </p>
 
 
