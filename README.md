@@ -1,12 +1,6 @@
-<!--  <img src="https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/fac670e0-912c-4430-8c17-0399f86019db" alt="Profile Picture"> -->
 <p align="center">
-<p align="center">
- <img src="https://github.com/Lee-Kyuhwun/Lee-Kyuhwun/assets/107871734/f3f24000-f3a0-47a1-9795-a1ded7ab93c8" width="400" height="auto">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lee-Kyuhwun&show_icons=true&theme=dark">
 </p>
-</p>
-
-
----
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
@@ -36,11 +30,8 @@
 <p align="center"><strong>오픈소스</strong></p>
 
 <p align="center">전자정부프레임워크 표준프레임워크 공통컴포넌트 컨트리뷰터</p>
+
 <!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lee-Kyuhwun&show_icons=true&theme=dark">
-</p>
---
 <p align="center">
   <a href="https://solved.ac/dlrbgns0904/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbgns0904">
@@ -49,5 +40,4 @@
 --
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Kyuhwun">
-</p>
--->
+</p>-->
